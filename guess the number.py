@@ -1,3 +1,5 @@
+#Input two numbers between a given range. Script will then pick a number between that range. User will guess a number until correct. 
+
 import random
 
 print('Welcome. What is your name?')
